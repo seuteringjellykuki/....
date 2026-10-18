@@ -1,4 +1,8 @@
 <div align="center">
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=seuteringjellykuki%20&label=%E2%97%8B%5E%E2%80%A2&labelColor=%232b0808&countColor=%2341200c&style=plastic&labelStyle=upper)
+</div>
+<div align="center">
 <img src="https://i.ibb.co/KcXh1cmy/ezgif-com-crop-1.gif" width="500"/> 
 </div>
 
